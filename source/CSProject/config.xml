@@ -1,0 +1,4 @@
+<config>
+	<startHour>9</startHour>
+	<endHour>5</endHour>
+	<maxAppts>20</maxAppts></config>
